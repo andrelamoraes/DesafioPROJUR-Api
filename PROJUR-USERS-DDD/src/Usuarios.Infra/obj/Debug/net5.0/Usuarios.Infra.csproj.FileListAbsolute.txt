@@ -1,0 +1,17 @@
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\bin\Debug\net5.0\Usuarios.Infra.deps.json
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\bin\Debug\net5.0\Usuarios.Infra.runtimeconfig.json
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\bin\Debug\net5.0\Usuarios.Infra.runtimeconfig.dev.json
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\bin\Debug\net5.0\Usuarios.Infra.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\bin\Debug\net5.0\ref\Usuarios.Infra.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\bin\Debug\net5.0\Usuarios.Infra.pdb
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\bin\Debug\net5.0\Usuarios.Domain.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\bin\Debug\net5.0\Usuarios.Domain.pdb
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\Usuarios.Infra.csproj.AssemblyReference.cache
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\Usuarios.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\Usuarios.Infra.AssemblyInfoInputs.cache
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\Usuarios.Infra.AssemblyInfo.cs
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\Usuarios.Infra.csproj.CoreCompileInputs.cache
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\Usuarios.Infra.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\ref\Usuarios.Infra.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\Usuarios.Infra.pdb
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Infra\obj\Debug\net5.0\Usuarios.Infra.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\bin\Debug\net5.0\Usuarios.Application.deps.json
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\bin\Debug\net5.0\Usuarios.Application.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\bin\Debug\net5.0\ref\Usuarios.Application.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\bin\Debug\net5.0\Usuarios.Application.pdb
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\obj\Debug\net5.0\Usuarios.Application.csproj.AssemblyReference.cache
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\obj\Debug\net5.0\Usuarios.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\obj\Debug\net5.0\Usuarios.Application.AssemblyInfoInputs.cache
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\obj\Debug\net5.0\Usuarios.Application.AssemblyInfo.cs
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\obj\Debug\net5.0\Usuarios.Application.csproj.CoreCompileInputs.cache
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\obj\Debug\net5.0\Usuarios.Application.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\obj\Debug\net5.0\ref\Usuarios.Application.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Application\obj\Debug\net5.0\Usuarios.Application.pdb

@@ -1,0 +1,11 @@
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\bin\Debug\net5.0\Usuarios.Domain.deps.json
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\bin\Debug\net5.0\Usuarios.Domain.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\bin\Debug\net5.0\ref\Usuarios.Domain.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\bin\Debug\net5.0\Usuarios.Domain.pdb
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.AssemblyInfoInputs.cache
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.AssemblyInfo.cs
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\obj\Debug\net5.0\ref\Usuarios.Domain.dll
+C:\Repositorio\PROJUR-USERS-DDD\src\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.pdb
